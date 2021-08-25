@@ -1,8 +1,8 @@
 {
   "name": "eslint-plugin-nx-local-workspace",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "James Henry",
-  "funding": "https://www.buymeacoffee.com/jameshenry",
+  "funding": "https://buymeacoffee.com/jameshenry",
   "license": "MIT",
   "main": "index.js",
   "description": "Reference ESLint rules which you have written within a specific Nx workspace as if they belonged to a published 3rd party plugin",
